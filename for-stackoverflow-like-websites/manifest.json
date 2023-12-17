@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "Remove Stackoverflow-like websites cookie banner",
+  "version": "1.0",
+  "description": "Logs the current URL to the console on page load.",
+  "permissions": ["activeTab"],
+  "background": {
+    "scripts": ["background-script.js"],
+    "persistent": false
+  },
+  "content_scripts": [
+    {
+     "matches": ["https://stackoverflow.com/*", "https://superuser.com/*", "https://askubuntu.com/*", "https://unix.stackexchange.com/*", "https://security.stackexchange.com/*", "https://android.stackexchange.com/*"],
+      "js": ["content-script.js"]
+    }
+  ]
+}
