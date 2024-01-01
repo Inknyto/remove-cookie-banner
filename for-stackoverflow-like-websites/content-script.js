@@ -3,7 +3,7 @@ const gdpr = document.getElementsByClassName("js-consent-banner")[0]
 function removeGdprBanner() {
   if (gdpr) {
     gdpr.remove();
-  } else {
+    } else {
     setTimeout(removeGdprBanner, 2000);
   }
 }
