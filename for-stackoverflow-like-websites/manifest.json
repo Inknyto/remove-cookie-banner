@@ -20,7 +20,9 @@
      			 "https://android.stackexchange.com/*",
      			 "https://tex.stackexchange.com/*",
      			 "https://serverfault.com/*",
-     			 "https://android.stackexchange.com/*"],
+     			 "https://android.stackexchange.com/*",
+			 "https://vi.stackexchange.com/*" 
+			 ],
 
       "js": ["content-script.js"]
     }
