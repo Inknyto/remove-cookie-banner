@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Remove Stackoverflow banner",
+  "version": "1.0",
+  "description": "Logs the current URL to the console on page load.",
+  "permissions": ["activeTab"],
+  "background": {
+    "scripts": ["background-script.js"],
+    "persistent": false
+  },
+  "content_scripts": [
+    {
+     "matches": [
+     			 "https://stackoverflow.com/*"
+			 ],
+
+      "js": ["content-script.js"]
+    }
+  ]
+}
