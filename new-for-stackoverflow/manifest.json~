@@ -11,7 +11,6 @@
   "content_scripts": [
     {
      "matches": [
-     			 "https://security.stackexchange.com/*",
      			 "https://stackoverflow.com/*",
 			 "https://unix.stackexchange.com/*"			
      ],
