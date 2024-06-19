@@ -12,13 +12,7 @@
     {
      "matches": [
 
-     			 "https://askubuntu.com/*",
-     			 "https://android.stackexchange.com/*",
-     			 "https://tex.stackexchange.com/*",
-     			 "https://serverfault.com/*",
-     			 "https://android.stackexchange.com/*",
-			 "https://vi.stackexchange.com/*" ,
-			 "https://www.sage.com/*"
+     			 "https://talentmontreal.com/*"
 			 ],
 
       "js": ["content-script.js"]
