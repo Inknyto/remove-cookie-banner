@@ -14,7 +14,13 @@
     			 "https://superuser.com/*",
      			 "https://security.stackexchange.com/*",
      			 "https://stackoverflow.com/*",
-			 "https://unix.stackexchange.com/*"			
+			 "https://unix.stackexchange.com/*",
+			 "https://askubuntu.com/*",
+			 "https://serverfault.com/*",
+			 "https://reverseengineering.stackexchange.com/*",
+			 "https://android.stackexchange.com/*",
+			 "https://www.sage.com/*",
+			 "https://webapps.stackexchange.com/*"
      ],
 
       "js": ["content-script.js"]
