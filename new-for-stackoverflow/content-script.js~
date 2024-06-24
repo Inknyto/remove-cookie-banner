@@ -1,9 +1,9 @@
 
 function removeGdprBanner() {
-  const gdpr = document.getElementById("cookieBar");
+const gdpr = document.getElementById("onetrust-consent-sdk")
   if (gdpr) {
     gdpr.remove();
-  } else {
+    } else {
     setTimeout(removeGdprBanner, 2000);
   }
 }

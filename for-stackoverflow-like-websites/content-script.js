@@ -1,6 +1,5 @@
-const gdpr = document.getElementById("onetrust-banner-sdk")
-
 function removeGdprBanner() {
+  const gdpr = document.getElementById("onetrust-banner-sdk")
   if (gdpr) {
     gdpr.remove();
     } else {

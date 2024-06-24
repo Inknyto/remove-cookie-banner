@@ -1,4 +1,4 @@
-const gdpr = document.getElementById("iubenda-cs-banner");
+const gdpr = document.getElementById("cookieBar");
 
 function removeGdprBanner() {
   if (gdpr) {
