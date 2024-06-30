@@ -21,7 +21,8 @@
 			 "https://android.stackexchange.com/*",
 			 "https://www.sage.com/*",
 			 "https://webapps.stackexchange.com/*",
-			 "https://arduino.stackexchange.com/*"
+			 "https://arduino.stackexchange.com/*",
+			 "https://softwareengineering.stackexchange.com/*"
      ],
 
       "js": ["content-script.js"]
