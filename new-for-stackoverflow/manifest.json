@@ -23,7 +23,8 @@
 			 "https://webapps.stackexchange.com/*",
 			 "https://arduino.stackexchange.com/*",
 			 "https://softwareengineering.stackexchange.com/*",
-			 "https://apple.stackexchange.com/*"
+			 "https://apple.stackexchange.com/*",
+			 "https://vi.stackexchange.com/*"
      ],
 
       "js": ["content-script.js"]
