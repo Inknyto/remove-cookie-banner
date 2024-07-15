@@ -24,7 +24,8 @@
 			 "https://arduino.stackexchange.com/*",
 			 "https://softwareengineering.stackexchange.com/*",
 			 "https://apple.stackexchange.com/*",
-			 "https://vi.stackexchange.com/*"
+			 "https://vi.stackexchange.com/*",
+			 "https://opensource.stackexchange.com/*"
      ],
 
       "js": ["content-script.js"]
