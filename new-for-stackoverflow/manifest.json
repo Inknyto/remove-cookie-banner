@@ -25,7 +25,8 @@
 			 "https://softwareengineering.stackexchange.com/*",
 			 "https://apple.stackexchange.com/*",
 			 "https://vi.stackexchange.com/*",
-			 "https://opensource.stackexchange.com/*"
+			 "https://opensource.stackexchange.com/*",
+			 "https://devops.stackexchange.com/*"
      ],
 
       "js": ["content-script.js"]
